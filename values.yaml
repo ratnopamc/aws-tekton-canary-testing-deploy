@@ -13,6 +13,6 @@ canaryConfig:
   - name: "backend-v1"
     tag: "v1.0.0"
     weight: 50
-  - name: "backend-v7"
-    tag: "v4.0.0"
+  - name: "backend-v8"
+    tag: "v8.0.0"
     weight: 50
